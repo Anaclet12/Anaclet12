@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="anaclet sado" src="https://github.com/user-attachments/assets/7954849b-ff5d-479c-a1ee-37ebf1507045" />
+
 # 👋 Hi, I'm Anaclet
 
 🎓 I'm an Accountant and Data Science student at La Cité Collegiale.  
