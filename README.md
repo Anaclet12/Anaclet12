@@ -9,4 +9,4 @@
 - 🧠 **Data Analytics** — [SHORT DESCRIPTION]  
 - 
 ## 🌐 Connect with me
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anaclet-sado-fokam-3947b6278/))
+[LinkedIn](https://www.linkedin.com/in/anaclet-sado-fokam-3947b6278/)
