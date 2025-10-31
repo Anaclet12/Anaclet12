@@ -6,15 +6,15 @@
 ---
 
 ### 💡 About Me  
-I’m an **Accountant Consultant turned Data Analyst** passionate about uncovering insights from complex datasets and translating them into actionable business strategies.  
-With a strong background in **accounting, data analytics, and process improvement**, I combine **numerical precision** with **data storytelling** to drive better decision-making.
+I’m an **Accountant Consultant plus Data Analyst** passionate about uncovering insights from complex datasets and translating them into actionable business strategies.  
+With a strong background in **accounting, over 5 years helping SMEs**, now I combine **numerical precision** with **data storytelling** to drive better decision-making.
 
 ---
 
 ### 🚀 What I’m Working On  
 - Building **data analytics portfolio projects** focused on business and financial data  
 - Creating **interactive dashboards** using Power BI and Tableau  
-- Strengthening my skills in **Python (Pandas, NumPy, Matplotlib)** and **SQL**  
+- Strengthening my skills in **Predictive analysis** and **Prescriptive analysis**  
 - Exploring **data-driven process automation** for efficiency and performance
 
 ---
@@ -49,8 +49,8 @@ With a strong background in **accounting, data analytics, and process improvemen
 ---
 
 ### 💬 My Professional Values  
-> **“Data tells a story — my job is to translate it into insight.”**  
-> I believe in precision, clarity, and integrity — both in numbers and in impact.
+> **“Data is everywhere and unstructured — my job is to deal with and translate it into insight.”**  
+> I believe in documentation, precision and clarity — both in numbers and in impact. As a consultant at heart, I’m driven by the desire to help companies and organizations grow through data-driven strategies, using analytics to uncover opportunities, optimize performance, and support sustainable success.
 
 ---
 
