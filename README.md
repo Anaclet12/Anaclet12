@@ -6,7 +6,7 @@
 ---
 
 ### 💡 About Me  
-I’m an **Accountant Consultant plus Data Analyst** passionate about uncovering insights from complex datasets and translating them into actionable business strategies.  
+I’m now a **Data Analyst** passionate about uncovering insights from complex datasets and translating them into actionable business strategies.  
 With a strong background in **accounting, over 5 years helping SMEs**, now I combine **numerical precision** with **data storytelling** to drive better decision-making.
 
 ---
@@ -52,7 +52,7 @@ With a strong background in **accounting, over 5 years helping SMEs**, now I com
 
 ### 💬 My Professional Values  
 > **“Data is everywhere and unstructured — my job is to deal with and translate it into insight.”**  
-> I believe in documentation, precision and clarity — both in numbers and in impact. As a consultant at heart, I’m driven by the desire to help companies and organizations grow through data-driven strategies, using analytics to uncover opportunities, optimize performance, and support sustainable success.
+> I believe in documentation, precision and clarity — both in numbers and in impact. As a consultant at heart, I’m driven by the desire to help companies and organizations grow through data-driven strategies, using data to uncover opportunities, optimize performance, and support sustainable success.
 
 ---
 
