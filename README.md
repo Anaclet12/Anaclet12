@@ -6,9 +6,7 @@
 ---
 
 ### 💡 About Me  
-I’m now a **Data Analyst** passionate about uncovering insights from complex datasets and translating them into actionable business strategies.  
-With a strong background in **accounting, over 5 years helping SMEs**, now I combine **numerical precision** with **data storytelling** to drive better decision-making.
-
+I'm a data professional, English and French speaker, driven by a clear purpose of contributing to the growth of the companies I work in. I bring rigor and strong documentation habits that I developed over my 5+ years of experience helping SMEs with their accounting and taxes. I now apply that same discipline to data analytics, having built end-to-end projects spanning SQL, Python, and R from data pipelines to forecasting models and Power BI/Tableau dashboards. Throughout, I stay focused on stakeholder needs, translating technical work into clear insights that support better business decisions.
 ---
 
 ### 🚀 What I’m Working On  
