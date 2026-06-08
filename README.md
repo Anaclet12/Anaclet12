@@ -50,8 +50,8 @@ I'm a data professional, English and French speaker, driven by a clear purpose o
 ---
 
 ### 💬 My Professional Values  
-> **“Data is everywhere and unstructured — my job is to deal with and translate it into insight.”**  
-> I believe in documentation, precision and clarity — both in numbers and in impact. As a consultant at heart, I’m driven by the desire to help companies and organizations grow through data-driven strategies, using data to uncover opportunities, optimize performance, and support sustainable success.
+> **“Data is everywhere and unstructured; my job is to deal with and translate it into insight.”**  
+> I believe in documentation, precision and clarity ; both in numbers and in impact. As a consultant at heart, I’m driven by the desire to help companies and organizations grow through data-driven strategies, using data to uncover opportunities, optimize performance, and support sustainable success.
 
 ---
 
