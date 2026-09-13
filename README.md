@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="anaclet sado" src="https://github.com/user-attachments/assets/7954849b-ff5d-479c-a1ee-37ebf1507045" />
+<img width="2056" height="765" alt="ChatGPT Image Sep 13, 2026, 04_17_16 AM" src="https://github.com/user-attachments/assets/4904ec94-8276-4635-926b-ab48b16a4554" />
+
 
 <h1 align="center">👋 Hi, I'm Anaclet Sado</h1>
 <h3 align="center">📊 Accountant Consultant | Data Analyst | Turning Data into Business Insight</h3>
